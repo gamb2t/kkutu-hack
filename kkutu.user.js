@@ -6,6 +6,7 @@
 // @author       gamb1t
 // @supportURL https://discord.gg/NcGdbDgBMS
 // @homepage https://discord.gg/NcGdbDgBMS
+// @iconURL https://i.imgur.com/ROhWgmE.png
 // @match        https://kkutu.co.kr/*
 // @grant        none
 // @require      https://raw.githubusercontent.com/gam-b1t/kkutu-hack/main/main.js
