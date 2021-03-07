@@ -7,4 +7,4 @@
 
 4.   https://kkutu.co.kr/ 에 들어가면 스크립트가 자동으로 적용됨
 
-2Kernel#8231
+**2Kernel#8231**
