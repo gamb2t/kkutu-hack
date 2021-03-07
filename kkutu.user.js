@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         끄투 끝말잇기 핵
-// @version      1.4
+// @version      1.4.4
 // @namespace    http://tampermonkey.net/
-// @description  끄투코리아 자동 게임 봇입니다.
-// @author       gamb1t
-// @supportURL https://discord.gg/NcGdbDgBMS
-// @homepage https://discord.gg/NcGdbDgBMS
-// @iconURL https://i.imgur.com/ROhWgmE.png
+// @description  끄투 끝말잇기 자동완성 봇
+// @author       2Kernel
+// @supportURL https://discord.gg/Kj4h7KkDMn
+// @homepage https://discord.gg/Kj4h7KkDMn
+// @iconURL https://i.imgur.com/oKHDoxH.png
 // @match        https://kkutu.co.kr/*
 // @grant        none
-// @require      https://raw.githubusercontent.com/gam-b1t/kkutu-hack/main/main.js
+// @require      https://raw.githubusercontent.com/2Kernel/kkutu-hack/main/main.js
 // ==/UserScript==
