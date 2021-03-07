@@ -6,3 +6,5 @@
 3.  **설치** 클릭![enter image description here](https://i.imgur.com/xUXZ1mC.jpg)
 
 4.   https://kkutu.co.kr/ 에 들어가면 스크립트가 자동으로 적용됨
+
+2Kernel#8231
